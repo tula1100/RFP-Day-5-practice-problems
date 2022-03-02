@@ -1,0 +1,8 @@
+E:\bridgelabz\uc_10\bin\Debug\uc_10.exe.config
+E:\bridgelabz\uc_10\bin\Debug\uc_10.exe
+E:\bridgelabz\uc_10\bin\Debug\uc_10.pdb
+E:\bridgelabz\uc_10\obj\Debug\uc_10.csproj.AssemblyReference.cache
+E:\bridgelabz\uc_10\obj\Debug\uc_10.csproj.SuggestedBindingRedirects.cache
+E:\bridgelabz\uc_10\obj\Debug\uc_10.csproj.CoreCompileInputs.cache
+E:\bridgelabz\uc_10\obj\Debug\uc_10.exe
+E:\bridgelabz\uc_10\obj\Debug\uc_10.pdb
