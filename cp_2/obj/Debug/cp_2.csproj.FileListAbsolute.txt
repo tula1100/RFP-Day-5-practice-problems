@@ -1,0 +1,8 @@
+E:\bridgelabz\cp_2\bin\Debug\cp_2.exe.config
+E:\bridgelabz\cp_2\bin\Debug\cp_2.exe
+E:\bridgelabz\cp_2\bin\Debug\cp_2.pdb
+E:\bridgelabz\cp_2\obj\Debug\cp_2.csproj.AssemblyReference.cache
+E:\bridgelabz\cp_2\obj\Debug\cp_2.csproj.SuggestedBindingRedirects.cache
+E:\bridgelabz\cp_2\obj\Debug\cp_2.csproj.CoreCompileInputs.cache
+E:\bridgelabz\cp_2\obj\Debug\cp_2.exe
+E:\bridgelabz\cp_2\obj\Debug\cp_2.pdb
