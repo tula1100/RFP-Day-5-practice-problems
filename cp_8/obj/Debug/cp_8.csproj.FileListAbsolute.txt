@@ -1,0 +1,8 @@
+E:\bridgelabz\cp_8\bin\Debug\cp_8.exe.config
+E:\bridgelabz\cp_8\bin\Debug\cp_8.exe
+E:\bridgelabz\cp_8\bin\Debug\cp_8.pdb
+E:\bridgelabz\cp_8\obj\Debug\cp_8.csproj.AssemblyReference.cache
+E:\bridgelabz\cp_8\obj\Debug\cp_8.csproj.SuggestedBindingRedirects.cache
+E:\bridgelabz\cp_8\obj\Debug\cp_8.csproj.CoreCompileInputs.cache
+E:\bridgelabz\cp_8\obj\Debug\cp_8.exe
+E:\bridgelabz\cp_8\obj\Debug\cp_8.pdb
